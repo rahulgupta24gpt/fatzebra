@@ -1,5 +1,8 @@
 #card_number,
 #expiry_date,
+#payment_request_card_holder,
+#payment_request_expiry_date,
+#payment_request_card_number,
 #payment_request_security_code {
   border: 1px solid #33333354 !important;
   border-radius: 8px;
@@ -36,8 +39,4 @@ body.v2 input.payment-input, body.payment input.payment-input {
   border: 2px solid rgb(204, 204, 204) !important;
   border-radius: 4px !important;
   padding: 8px 12px 8px 8px !important;
-}
-
-#payment-form {
-  background-color: antiquewhite;
 }
