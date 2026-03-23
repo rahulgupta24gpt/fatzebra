@@ -24,6 +24,10 @@
   width: 100%;
 }
 
+button svg.lock-icon {
+  display: none;
+}
+
 /* Labels */
 label {
   font-size: 14px;
