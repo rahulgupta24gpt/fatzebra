@@ -1,0 +1,43 @@
+#card_number,
+#expiry_date,
+#payment_request_security_code {
+  border: 1px solid #b53838;
+  border-radius: 8px;
+  padding: 12px;
+  font-size: 16px;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+}
+
+/* Submit button */
+#pay-btn,
+.fz-btn {
+  background-color: #E4002B;
+  color: white;
+  border-radius: 8px;
+  padding: 14px;
+  font-size: 16px;
+  font-weight: 600;
+  border: none;
+  width: 100%;
+}
+
+/* Labels */
+label {
+  font-size: 14px;
+  color: #333;
+  font-weight: 500;
+}
+
+body.v2 input.payment-input, body.payment input.payment-input {
+  box-sizing: border-box !important;
+  color: inherit !important;
+  position: relative !important;
+  height: 40px !important;
+  border: 2px solid rgb(204, 204, 204) !important;
+  border-radius: 4px !important;
+  padding: 8px 12px 8px 8px !important;
+}
+
+#payment-form {
+  background-color: antiquewhite;
+}
