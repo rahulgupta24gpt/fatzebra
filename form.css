@@ -27,8 +27,8 @@
 /* Labels */
 label {
   font-size: 14px;
-  color: #333;
-  font-weight: 500;
+  color: #191919;
+  font-weight: 600;
 }
 
 body.v2 input.payment-input, body.payment input.payment-input {
