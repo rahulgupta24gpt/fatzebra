@@ -24,6 +24,7 @@
   border: none;
   width: 100%;
   font-family: 'Inter', sans-serif;
+  background-image: none;
 }
 
 button svg.lock-icon {
